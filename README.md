@@ -40,7 +40,42 @@ The merged dataset was further enhanced through:
 - `Pivot Transformations` for multi-dimensional analysis
 
 ---
+---
 
+## 📊 Tableau Dashboards & Visualisations
+
+This section presents the interactive Tableau dashboards developed for analysing Sustainable Development Goals (SDGs). These visualisations provide insights into global trends, regional performance, and long-term progress across multiple SDG indicators.
+
+---
+
+### 🌍 Dashboard 1 – SDG Scores for Different Goals Over Time Across Countries
+
+This dashboard visualises how different countries perform across SDG goals over time, highlighting disparities and progress trends at a global level.
+
+<div align="center">
+<img src="https://i.imgur.com/uJcGz3o.png" width="90%" alt="SDG Scores Over Time Dashboard"/>
+</div>
+
+---
+
+### 🌐 Dashboard 2 – Goal-wise Performance by Region Over Time
+
+This dashboard focuses on regional comparisons, showing how different geographical regions perform across various SDG goals over time.
+
+<div align="center">
+<img src="https://i.imgur.com/MjSBjdc.png" width="90%" alt="Regional SDG Performance Dashboard"/>
+</div>
+
+---
+
+## 📌 Insights from Dashboards
+
+- Developed countries consistently show higher SDG performance across most goals  
+- Regional disparities remain significant, especially between OECD and Sub-Saharan Africa  
+- Some SDG goals show steady improvement globally, while others remain stagnant  
+- Long-term trends indicate slow but continuous global progress with uneven distribution  
+
+---
 ## 🔍 Key Insights
 
 - **OECD countries lead SDG performance**, especially in Goals 1 *(No Poverty)*, 3 *(Good Health and Well-being)*, and 7 *(Affordable and Clean Energy)*, due to strong policy frameworks, investment capacity, and robust data infrastructure.
