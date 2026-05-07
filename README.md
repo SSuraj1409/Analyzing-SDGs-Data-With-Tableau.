@@ -65,35 +65,28 @@ This dashboard focuses on regional comparisons, showing how different geographic
 <div align="center">
 <img src="https://i.imgur.com/MjSBjdc.png" width="90%" alt="Regional SDG Performance Dashboard"/>
 </div>
+ 
 
 ---
+## 🔍 Key Insights & Findings
 
-## 📌 Insights from Dashboards
+The analysis of SDG data through Tableau dashboards revealed several important global and regional trends:
 
-- Developed countries consistently show higher SDG performance across most goals  
-- Regional disparities remain significant, especially between OECD and Sub-Saharan Africa  
-- Some SDG goals show steady improvement globally, while others remain stagnant  
-- Long-term trends indicate slow but continuous global progress with uneven distribution  
+- **Developed countries (especially OECD nations)** consistently outperform other regions across most SDG goals, particularly in health, poverty reduction, and clean energy due to strong governance, funding capacity, and infrastructure.
 
----
-## 🔍 Key Insights
+- **Sub-Saharan Africa remains the most challenged region**, although gradual improvement has been observed since 2015, indicating progress driven by international aid and policy interventions.
 
-- **OECD countries lead SDG performance**, especially in Goals 1 *(No Poverty)*, 3 *(Good Health and Well-being)*, and 7 *(Affordable and Clean Energy)*, due to strong policy frameworks, investment capacity, and robust data infrastructure.
+- **COVID-19 significantly disrupted global SDG progress**, especially in health (Goal 3) and poverty reduction (Goal 1), with stronger economies recovering faster due to resilient systems.
 
-- **Sub-Saharan Africa remains the most challenged region**, consistently scoring lowest on the SDG Index. However, a gradual upward trend since 2015 suggests growing policy attention, international aid, and localised efforts to improve SDG outcomes.
+- **Forecasting (2024–2034)** suggests that while regions like OECD and East Asia & Pacific will continue improving steadily, regions such as Sub-Saharan Africa and South Asia may struggle to meet 2030 targets without accelerated intervention.
 
-- **COVID-19 and global economic disruptions** significantly impacted progress, especially on health (Goal 3) and poverty (Goal 1). Countries with strong healthcare and social safety nets recovered faster, reinforcing the need for resilient systems.
+- **Climate-related SDG goals show strong regional disparities**, with Europe and North America leading clean energy transition efforts, while developing regions lag due to infrastructure limitations.
 
-- **Forecasting (2024–2034)** using Tableau indicates that while OECD and East Asia & Pacific regions are expected to continue progressing steadily, regions like Sub-Saharan Africa and South Asia may fall short of 2030 targets without accelerated interventions.
+- **Policy strength and data governance play a critical role** in SDG success, with countries having structured national strategies showing significantly better outcomes.
 
-- **Regional disparities are evident in climate-related goals.** Europe and North America show higher transition rates to clean energy (Goal 7), while others lag due to limited infrastructure and policy gaps.
+- **Equality, Diversity, and Inclusion (EDI)** remain major global challenges, particularly in access to education, healthcare, and energy for marginalised communities.
 
-- **Policy strength and data governance matter:** Countries with clear national strategies, reliable data systems, and proactive governance structures consistently perform better in SDG progress.
-
-- **Equality, Diversity, and Inclusion (EDI)** remain persistent global challenges. Marginalised groups in many developing regions still face systemic barriers in accessing education, healthcare, and clean energy, hindering broader SDG attainment.
-
-- **Collaborative efforts are critical:** Achieving the SDGs requires coordinated action between governments, private sectors, NGOs, and civil society, especially in addressing cross-cutting issues like climate change, poverty, and health equity.
-
+- **Overall trend:** Global SDG progress is improving, but the pace is uneven and requires stronger international collaboration to achieve targets.
 
 
 ---
