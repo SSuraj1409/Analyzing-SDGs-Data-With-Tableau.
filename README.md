@@ -41,7 +41,7 @@ The merged dataset was further enhanced through:
 
 ---
 
-# ## 🔍 Key Insights
+## 🔍 Key Insights
 
 - **OECD countries lead SDG performance**, especially in Goals 1 *(No Poverty)*, 3 *(Good Health and Well-being)*, and 7 *(Affordable and Clean Energy)*, due to strong policy frameworks, investment capacity, and robust data infrastructure.
 
